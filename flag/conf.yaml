@@ -1,0 +1,8 @@
+dev:
+  host: localhost
+  port: 8080
+
+prod:
+  host: 10.12.81.102
+  port: 8000
+

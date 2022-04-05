@@ -1,9 +1,5 @@
-# go-sample-topics
+# Go Sample Topics
 
-YAML Parse:
-
-go run ./yaml/yamlwithoutstruct.go
-
-go run ./yaml/yamlparse.go
-
-go run ./yaml/yamlparse_nested.go
+* flag: flag with yaml file reading
+* json: reading json file
+* yaml: yaml file reading, nested yaml file reading and reading without struct

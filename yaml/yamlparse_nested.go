@@ -16,7 +16,7 @@ func main() {
 	log.Println("Data:: ", data)
 
 	//data := make(map[interface{}]interface{})
-	data1 := readYaml()["mango"]
+	data1 := readYaml()["mongo"]
 	log.Println("Data:: ", data1["name"])
 	//	log.Println("Data:: Name:: %s, \n Hits:: %d, \n Time:: %d", readYaml()["name"], readYaml()["hits"], readYaml()["time"])
 }
